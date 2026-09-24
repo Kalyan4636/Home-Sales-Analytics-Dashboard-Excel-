@@ -2,7 +2,11 @@
 
 > **Interactive real-estate sales analytics dashboard built in Microsoft Excel using data cleaning, formula-driven analysis, KPI reporting, and executive-style visual storytelling.**
 
-![Dashboard Preview](assets/dashboard-preview.png)
+ ## Dashboard Preview 
+ <img width="644" height="365" alt="Screenshot 2026-09-24 113019" src="https://github.com/user-attachments/assets/bf5c2c00-c16a-4c4a-b0c0-b5e6571c2405" />
+
+
+
 
 ## 📌 Project Overview
 
